@@ -48,3 +48,12 @@ ________________________________________________________________________________
 - in backgroung values got are transformed to scaler using saved scaler pickle file
 - and predicted with saved pickle model file
 - tab3 is just a small basic manual to use the web app.
+![Capture1](https://github.com/kalinharikumar/Industrial-Copper-Modeling/assets/127252539/4a546c3c-32e7-4f91-9ebc-a8756d06d56f)
+![Capture2](https://github.com/kalinharikumar/Industrial-Copper-Modeling/assets/127252539/784c6237-92c8-40ce-a3da-022d9d9534b9)
+![Capture](https://github.com/kalinharikumar/Industrial-Copper-Modeling/assets/127252539/3f8c4f4c-9339-499b-8081-b0e62b6ba9fd)
+![Capture4](https://github.com/kalinharikumar/Industrial-Copper-Modeling/assets/127252539/b9faad97-4b6a-4b8a-bda2-d03206a34552)
+![Capture5](https://github.com/kalinharikumar/Industrial-Copper-Modeling/assets/127252539/323735f5-7eef-4974-a0e5-af0b83551a3e)
+
+
+
+
