@@ -9,7 +9,7 @@ ML Classification model which predicts Status: WON or LOST.
 Creating a streamlit page where you can insert each column value and you will get the Selling_Price predicted value or Status(Won/Lost)
 _______________________________________________________________________________________________
 # Demo video(linkedIn):
-
+https://www.linkedin.com/posts/kalin-harikumar-230349140_project-guvi-industrialabrcopperabrmodeling-activity-7067563106100514816-rLvD?utm_source=share&utm_medium=member_desktop
 __________________________________________________________________________________________
 
 # Workflow
